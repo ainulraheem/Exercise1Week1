@@ -1,4 +1,4 @@
-public class Fish {
+ public class Fish {
 
 	//Attribute or data member or fileds
 	private String color = "blue"; //blue default value
